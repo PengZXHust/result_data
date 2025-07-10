@@ -1,4 +1,4 @@
-55*10										
+50*10										
 	DKG-PPO		FIFO		SPT		LPT		EDD	
 Instance	Makespan	Tardiness	Makespan	Tardiness	Makespan	Tardiness	Makespan	Tardiness	Makespan	Tardiness
 0	893.02	731.71	1146.02	6502.94	2875.02	52851.12	4062	137591.96	2209.02	40914.69
@@ -32,4 +32,5 @@ Instance	Makespan	Tardiness	Makespan	Tardiness	Makespan	Tardiness	Makespan	Tardi
 28	768.85	198.66	1018.85	4394.19	2760.85	35935.76	3987.85	134887.67	1600.85	15123.57
 29	919.53	357.89	1204.53	3568.56	2914	42762	3948.53	128955.62	1945.53	21946.15
 										
-运行时间	7.92 		1.84 		1.86 		1.86 		1.85 	
+运行时间	6.538 	0.255 	0.170 	0.212 	0.200 
+
